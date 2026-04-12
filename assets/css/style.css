@@ -318,6 +318,15 @@ h3.subsection-heading {
 .tag-working    { background: #fef3c7; color: #92400e; }
 .tag-progress   { background: #ede9fe; color: #5b21b6; }
 .tag-forthcoming { background: #d1fae5; color: #065f46; }
+.tag-media      { background: #fff1f2; color: #be123c; }
+
+.paper-media {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+  margin-top: 0.5rem;
+}
 
 .paper-link-btn {
   font-size: 0.8rem;
