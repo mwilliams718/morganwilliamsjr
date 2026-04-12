@@ -320,6 +320,7 @@ h3.subsection-heading {
 .tag-forthcoming { background: #d1fae5; color: #065f46; }
 .tag-media      { background: #fff1f2; color: #be123c; }
 .tag-links      { background: #dbeafe; color: #1d4ed8; }
+.tag-podcast    { background: #dcfce7; color: #15803d; }
 
 .paper-media {
   display: flex;
