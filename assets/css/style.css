@@ -215,6 +215,26 @@ nav {
 }
 .btn-outline:hover { background: var(--navy); color: #fff; }
 
+/* ---------- Social Icon Buttons ---------- */
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1.5px solid var(--navy);
+  color: var(--navy);
+  font-size: 1.15rem;
+  transition: all 0.2s;
+  text-decoration: none !important;
+}
+.social-btn:hover {
+  background: var(--navy);
+  color: #fff;
+  text-decoration: none;
+}
+
 /* ---------- Section Headers ---------- */
 .section-divider {
   border: none;
